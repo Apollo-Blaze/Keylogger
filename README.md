@@ -7,7 +7,7 @@ This Python script logs keystrokes and sends them via email using Gmail's SMTP s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Apollo-Blaze/Keylogger.git
 2. The script will start logging keystrokes. Press ESC to stop the keylogger.
 
 ## Configuration
